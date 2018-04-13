@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Asteroid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RGBpixmap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SolarSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Data.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Skybox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Globals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Asteroid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RGBpixmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SolarSystemGlobals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SolarSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEngine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Skybox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4852e959-3f4d-4b33-ab15-b7d3962ad0c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="obj files">
+      <UniqueIdentifier>{c483609e-b663-45d2-95cb-e73935ef6a9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{defe8113-a229-46c7-80ea-63c6a2f7a0eb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="terrain.vert">
+      <Filter>obj files</Filter>
+    </None>
+    <None Include="terrain.frag">
+      <Filter>obj files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Textures\alpha.jpg">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="Textures\reflection.jpg">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\earthmap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\jupitermap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\marsmap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\mercurymap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\moonmap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\nasalogo.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\neptunemap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\particle.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\Particle1.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\plutomap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\saturnmap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\saturnringmap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\sunmap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\uranusmap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+    <Image Include="..\..\Bitmaps\venusmap.bmp">
+      <Filter>obj files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

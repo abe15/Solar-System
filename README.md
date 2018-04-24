@@ -10,7 +10,7 @@ I create tiny dots that appear at random places on screen and travel a bit befor
 
 ![Particle System](https://thumbs.gfycat.com/CapitalAliveColt-size_restricted.gif)
 
-##Glow 
+## Glow 
 
 
 ![Glow](https://thumbs.gfycat.com/MindlessAntiqueBoutu-size_restricted.gif)
